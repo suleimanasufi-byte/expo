@@ -1,5 +1,29 @@
 # bare-expo
 
+## 0.0.19
+
+### Patch Changes
+
+- Updated dependencies. ([#52885](https://github.com/expo/expo/pull/52885), [#52884](https://github.com/expo/expo/pull/52884), [#52844](https://github.com/expo/expo/pull/52844), [#52993](https://github.com/expo/expo/pull/52993), [#52616](https://github.com/expo/expo/pull/52616), [#52402](https://github.com/expo/expo/pull/52402), [#52960](https://github.com/expo/expo/pull/52960), [#52934](https://github.com/expo/expo/pull/52934), [#52711](https://github.com/expo/expo/pull/52711), [#52839](https://github.com/expo/expo/pull/52839), [#52744](https://github.com/expo/expo/pull/52744), [#47144](https://github.com/expo/expo/pull/47144), [#52964](https://github.com/expo/expo/pull/52964), [#53099](https://github.com/expo/expo/pull/53099))
+  - expo-router@58.0.31
+  - @expo/ui@58.0.28
+  - expo-updates@58.0.22
+  - expo-media-library@58.0.14
+  - expo-tracking-transparency@58.1.0
+  - expo-web-browser@58.0.8
+  - native-component-list@0.0.18
+  - test-suite@1.0.18
+  - expo@58.0.24
+  - expo-app-intents@0.5.17
+  - expo-splash-screen@58.0.14
+  - expo-location@58.0.21
+  - expo-notifications@58.1.9
+  - expo-brownfield@58.0.20
+  - expo-background-fetch@58.0.13
+  - expo-dev-client@58.0.18
+  - expo-linking@58.0.17
+  - expo-dev-menu@58.0.12
+
 ## 0.0.18
 
 ### Patch Changes

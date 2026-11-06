@@ -1,5 +1,11 @@
 # Changelog
 
+## 58.0.3
+
+### Patch Changes
+
+- [Android] Fix `requestReview` crashing the app with `MissingActivity` when the activity is destroyed before the review flow is ready. The promise now rejects instead. ([#53027](https://github.com/expo/expo/pull/53027) by [@vonovak](https://github.com/vonovak))
+
 ## 58.0.2
 
 ### Patch Changes
